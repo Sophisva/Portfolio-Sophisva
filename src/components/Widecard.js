@@ -4,6 +4,7 @@ class Widecard extends Component{
     render(){
         return(
             <div  className="widecard">
+                <img className="logo" src={this.props.logo} />
                 <div className="wide-con">
                     <h3>{this.props.title}</h3>
                     <h4 className="secondtext">{this.props.where}</h4>
