@@ -8,8 +8,15 @@ class About extends Component{
             <div className="condiv about">
                 <h1 className="subjtopic">About Me</h1>
                 <img src={Profile} alt="profile"  className="profilepic" />
-                <h3>Hi, I'm Sophisva Phaensomboorn</h3>
-                <p>I am looking to the position with a company that allows me to use as well as develop my Programming skill and I can lern many new jobs are always ready to listen provide feedback to correct and improve myself for the better. </p>
+                <h3 className="deteil">Name: Sophisva Phaensomboorn(So)</h3>
+                <h3 className="deteil">Gender:  Male</h3>
+                <h3 className="deteil">Date of birth: 26 March 1998</h3>
+                <h3 className="deteil">Age:  23</h3>
+                <h3 className="deteil">Nationality:  Thai</h3>
+                <h3 className="deteil">Marital status:  Single</h3>
+                <h3 className="deteil">Address: 135 M.7 Chorakhesamphan,U-thong, Suphanburi 72160 </h3>
+                <h3 className="deteil">Note: I passed military conscription, academic year 2563 under 
+                the 9th Infantry Brigade (Camp Surasi), Discharged on October 31, 2021</h3>
             </div>
         )
     

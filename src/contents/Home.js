@@ -7,12 +7,13 @@ class Home extends Component{
     render() {
         return(
         <div className="condiv home">
+            <ReactTypingEffect text={['Welcome to website me']} speed={100} eraseDelay={200} className="typingeffect"/>
             <img src={Profile}  alt="profile"  className="profilepic" />
-            <h1>Welcome to portfolio website of</h1>
-            <h1>Sophisva Phaensomboorn</h1>
-            {/* <ReactTypingEffect text={['Welcome to portfolio website of']} speed={100} eraseDelay={200} className="typingeffect"/>
-            <ReactTypingEffect text={['Sophisva Phaensomboorn']} speed={100} eraseDelay={300} className="typingeffect"/> */}
-            <Social />
+            <h3>Hi, I'm Sophisva Phaensomboorn</h3>
+                <p>I am looking to the position with a company that allows me to use as well as develop my 
+                    Programming skill and I can lern many new jobs are always ready to listen provide feedback 
+                    to correct and improve myself for the better. </p>
+            {/* <Social /> */}
         </div>
         )   
     }
