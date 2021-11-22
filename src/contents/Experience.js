@@ -11,7 +11,8 @@ class Experinece extends Component{
                    <h6> Framwork: IONIC III</h6>
                    <h6> Editor: Visual Studio Code</h6>
                    <h6> Database: MySQL</h6>
-                   <h6> Note: Project Computer Sciences</h6>
+                   <h6> Note: Project Computer Sciences<a href="https://github.com/Sophisva/ProjectCS.git">Click</a></h6>
+                   
                 </div>
                 <br/>
                 <div>
