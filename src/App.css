@@ -99,6 +99,11 @@ h5{
   margin: 10px 10px 10px 40px;
 }
 
+h6{
+  font-size: 20px;
+  margin: 10px 10px 10px 40px;
+}
+
 p {
   font-size: var(--fontsize-p);
 }
